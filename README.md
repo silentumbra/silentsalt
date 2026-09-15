@@ -2,4 +2,9 @@
 <img width="640" height="640" alt="IMG_8802" src="https://github.com/user-attachments/assets/baec2cc0-a8ac-4996-b47c-7e37e7ca2bd5" />
 <img width="640" height="468" alt="IMG_8635" src="https://github.com/user-attachments/assets/e2214703-cb08-4c1f-bc35-db3cd40614c7" />
 
+<test>
+  <test>Click here to expand the dropdown!</test>
 
+  This is the hidden content inside your dropdown. You can add text, 
+  images, or even code blocks here.
+</test>
